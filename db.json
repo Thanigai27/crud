@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "body": "some comment"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "A",
+      "lastname": "A",
+      "email": "abc@gmail.com",
+      "dob": "2025-03-04T18:30:00.000Z",
+      "gender": "Male",
+      "mobile": "9923456778",
+      "education": "Matric",
+      "company": "S",
+      "experience": 3,
+      "package": 2,
+      "id": "6300"
+    },
+    {
+      "firstname": "B",
+      "lastname": "R",
+      "email": "asd@gmail.com",
+      "dob": "2025-03-09T18:30:00.000Z",
+      "gender": "Male",
+      "mobile": "9987654321",
+      "education": "Matric",
+      "company": "LL",
+      "experience": 8,
+      "package": 66,
+      "id": "e876"
+    },
+    {
+      "id": "8e8c",
+      "firstname": "Cc",
+      "lastname": "S",
+      "email": "mab@gmail.com",
+      "dob": "2025-03-08T18:30:00.000Z",
+      "gender": "Female",
+      "mobile": "3456789012",
+      "education": "Matric",
+      "company": "KJ",
+      "experience": 9,
+      "package": 4
+    },
+    {
+      "id": "ba27",
+      "firstname": "Wee",
+      "lastname": "A",
+      "email": "edf@gmail.com",
+      "dob": "2025-03-18T18:30:00.000Z",
+      "gender": "Male",
+      "mobile": "1234567890",
+      "education": "Diploma",
+      "company": "Sd",
+      "experience": 3,
+      "package": 11
+    },
+    {
+      "firstname": "Adf",
+      "lastname": "X",
+      "email": "asd@gmail.com",
+      "dob": "2025-03-23T18:30:00.000Z",
+      "gender": "Male",
+      "mobile": "9080706050",
+      "education": "post Graduate",
+      "company": "Googlr",
+      "experience": 44,
+      "package": 2221,
+      "id": "3eea"
+    },
+    {
+      "id": "50da",
+      "firstname": "Xs",
+      "lastname": "Q",
+      "email": "ase@gmail.com",
+      "dob": "2025-03-09T18:30:00.000Z",
+      "gender": "Male",
+      "mobile": "1234567898",
+      "education": "Matric",
+      "company": "Q",
+      "experience": 3,
+      "package": 4
+    },
+    {
+      "id": "e7ed",
+      "firstname": "As",
+      "lastname": "C",
+      "email": "abs@gmail.com",
+      "dob": "2025-03-09T18:30:00.000Z",
+      "gender": "Female",
+      "mobile": "1234567890",
+      "education": "Diploma",
+      "company": "X",
+      "experience": 2,
+      "package": 3
+    }
+  ]
+}
